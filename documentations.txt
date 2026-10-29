@@ -132,3 +132,23 @@ Vite: https://vite.dev/guide/
 Webpack: https://webpack.js.org/concepts/
 
 NeoVim: https://neovim.io/doc/user/
+
+TamperMonkey: https://www.tampermonkey.net/documentation.php
+
+Webstudio: https://docs.webstudio.is/
+
+Puck: https://puckeditor.com/docs
+
+GrapesJS: https://app.grapesjs.com/docs-sdk/overview/getting-started
+
+BlockNote: https://www.blocknotejs.org/docs
+
+Editor.js: https://editorjs.io/base-concepts/
+
+Tiptap: https://tiptap.dev/docs
+
+Quill: https://quilljs.com/docs/quickstart
+
+CKEditor: https://ckeditor.com/docs/
+
+TinyMCE: https://www.tiny.cloud/docs/tinymce/latest/
