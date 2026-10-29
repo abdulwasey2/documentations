@@ -125,3 +125,10 @@ Babylon: https://www.babylon-software.com/ (For dictionary's .bgl files)
 StarDict (Founder of .ifo /.idx /.idx.gz /.dict /.dict.dz /.dict.gz /.syn file formats)
 StarDict: https://stardict-4.sourceforge.net/index_en.php.html
 StarDict: https://github.com/huzheng001/stardict-3
+
+
+Vite: https://vite.dev/guide/
+
+Webpack: https://webpack.js.org/concepts/
+
+NeoVim: https://neovim.io/doc/user/
