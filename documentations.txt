@@ -152,3 +152,6 @@ Quill: https://quilljs.com/docs/quickstart
 CKEditor: https://ckeditor.com/docs/
 
 TinyMCE: https://www.tiny.cloud/docs/tinymce/latest/
+
+
+phpMyAdmin: https://docs.phpmyadmin.net/en/latest/
