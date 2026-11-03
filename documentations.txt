@@ -81,7 +81,7 @@ Official Docs: https://www.semicomplete.com/projects/xdotool/
 Rofi: https://github.com/davatorium/rofi
 
 
-Filament: https://filamentphp.com/docs
+Filament: https://filamentphp.com/docs (I think Shopify alternative in Laravel)
 
 MySQL 8.4: https://dev.mysql.com/doc/refman/8.4/en/
 Note: MySQL 9.7 is also in LTS, but we mostly use 8.4.
@@ -135,7 +135,7 @@ NeoVim: https://neovim.io/doc/user/
 
 TamperMonkey: https://www.tampermonkey.net/documentation.php
 
-Webstudio: https://docs.webstudio.is/
+Webstudio: https://docs.webstudio.is/ (CMS)
 
 Puck: https://puckeditor.com/docs
 
@@ -155,3 +155,7 @@ TinyMCE: https://www.tiny.cloud/docs/tinymce/latest/
 
 
 phpMyAdmin: https://docs.phpmyadmin.net/en/latest/
+
+JavaScript: https://javascript.info/ (Recommended by react.dev)
+
+React: https://react.dev/learn
