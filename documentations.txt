@@ -159,3 +159,15 @@ phpMyAdmin: https://docs.phpmyadmin.net/en/latest/
 JavaScript: https://javascript.info/ (Recommended by react.dev)
 
 React: https://react.dev/learn
+
+Humanity's Last Exam: https://agi.safe.ai/ (Provided by artificialanalysis.ai) (AI Benchmark)
+Humanity's Last Exam: https://arxiv.org/abs/2501.14249 (Provided by artificialanalysis.ai) (AI Benchmark)
+Humanity's Last Exam: https://huggingface.co/datasets/cais/hle (Provided by artificialanalysis.ai) (AI Benchmark)
+https://github.com/centerforaisafety/hle
+
+
+
+https://dashboard.safe.ai/ (From https://agi.safe.ai/)
+
+
+Long Context Reasoning: https://huggingface.co/datasets/ArtificialAnalysis/AA-LCR (Provided by artificialanalysis.ai)
