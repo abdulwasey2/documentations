@@ -174,3 +174,9 @@ Long Context Reasoning: https://huggingface.co/datasets/ArtificialAnalysis/AA-LC
 
 
 Groq: https://console.groq.com/docs/overview
+
+Flaticon: https://www.flaticon.com/
+
+Iconify: https://iconify.design/docs/ (Biggest icon set after Flaticon)
+
+HTTrack: https://www.httrack.com/html/index.html
