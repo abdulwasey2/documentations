@@ -180,3 +180,5 @@ Flaticon: https://www.flaticon.com/
 Iconify: https://iconify.design/docs/ (Biggest icon set after Flaticon)
 
 HTTrack: https://www.httrack.com/html/index.html
+
+Emmet: https://docs.emmet.io/
