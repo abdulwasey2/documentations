@@ -182,3 +182,13 @@ Iconify: https://iconify.design/docs/ (Biggest icon set after Flaticon)
 HTTrack: https://www.httrack.com/html/index.html
 
 Emmet: https://docs.emmet.io/
+
+Bootstrap 5: https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+Bootstrap 6: https://getbootstrap.com/docs/6.0/getting-started/install/
+
+tree (Ubuntu command): https://manpages.ubuntu.com/manpages/trusty/man1/tree.1.html
+
+Chrome DevTools: https://developer.chrome.com/docs/devtools
+
+PyroCMS: https://pyrocms.com/documentation
