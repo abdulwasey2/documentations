@@ -192,3 +192,5 @@ tree (Ubuntu command): https://manpages.ubuntu.com/manpages/trusty/man1/tree.1.h
 Chrome DevTools: https://developer.chrome.com/docs/devtools
 
 PyroCMS: https://pyrocms.com/documentation
+
+Inertia.js: https://inertiajs.com/docs/v3/getting-started/index
