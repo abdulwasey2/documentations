@@ -200,3 +200,5 @@ ImageMagick: https://imagemagick.org/command-line-processing/#gsc.tab=0
 BEM (Block, Element, Modifier) HTML Classes Naming Convention: https://en.bem.info/ (Not written as "official website" in Wikipedia, this website was referenced three times in their references)
 
 Axios: https://axios.rest/pages/getting-started/first-steps.html
+
+Termux: https://wiki.termux.com/
