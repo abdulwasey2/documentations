@@ -202,3 +202,5 @@ BEM (Block, Element, Modifier) HTML Classes Naming Convention: https://en.bem.in
 Axios: https://axios.rest/pages/getting-started/first-steps.html
 
 Termux: https://wiki.termux.com/
+
+ECMAScript: https://tc39.es/ecma262/multipage/
