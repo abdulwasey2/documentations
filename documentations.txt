@@ -204,3 +204,6 @@ Axios: https://axios.rest/pages/getting-started/first-steps.html
 Termux: https://wiki.termux.com/
 
 ECMAScript: https://tc39.es/ecma262/multipage/
+
+
+Chrome DevTools: https://web.dev/ (Recommended by Chrome DevTools)
