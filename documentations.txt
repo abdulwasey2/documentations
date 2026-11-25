@@ -207,3 +207,6 @@ ECMAScript: https://tc39.es/ecma262/multipage/
 
 
 Chrome DevTools: https://web.dev/ (Recommended by Chrome DevTools)
+
+
+WebAssembly: https://webassembly.org/docs/
