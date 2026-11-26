@@ -212,3 +212,7 @@ Chrome DevTools: https://web.dev/ (Recommended by Chrome DevTools)
 WebAssembly: https://webassembly.org/docs/
 
 JSON: https://www.json.org/json-en.html (Recommended by MDN)
+
+Secure Context: https://w3c.github.io/webappsec-secure-contexts/ (Recommended by MDN)
+
+RSS: https://www.rssboard.org/rss-specification (Recommended by MDN)
