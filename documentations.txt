@@ -210,3 +210,5 @@ Chrome DevTools: https://web.dev/ (Recommended by Chrome DevTools)
 
 
 WebAssembly: https://webassembly.org/docs/
+
+JSON: https://www.json.org/json-en.html (Recommended by MDN)
